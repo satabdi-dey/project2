@@ -9,3 +9,8 @@ The difficulty I face in this project is positioning the elements.
 ---
 [Diployed link](https://food-restaurant-2nd-project.netlify.app/
 )
+
+---
+Project Screen shot
+
+![project image](./assets/screencapture.png)
